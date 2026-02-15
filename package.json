@@ -1,0 +1,14 @@
+{
+  "name": "privalytics-api",
+  "version": "1.0.0",
+  "description": "Privalytics API - Headless analytics API with advanced data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sql.js": "^1.10.2",
+    "uuid": "^9.0.0"
+  }
+}
